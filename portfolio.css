@@ -1,0 +1,80 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+/* header and navigation style */
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+      
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+
+}
+/* its mary */
+.inside{
+    color:#fd6e0a;
+
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+/* hire us btn */
+.hire{
+    background-color: #fd6e0a;
+    color:white;
+    border-radius: 5px;
+    padding: 18px 35px;
+    border: none;
+    font-weight: 700;
+    height: 64px;
+    font-size: 20px;
+
+}
+/* banner style(my name and some describes) */
+
+.banner {
+    display: flex;
+    align-items: center;
+    margin: 0px 200px;
+}
+
+ .sub-title{
+    font-weight: 600;
+    font-size: 45px;
+}
+/* cv download btn */
+.dwn{
+    display: flex;
+    background-color: #fd6e0a;
+    border-radius: 5px;
+    color:white;
+    border-radius: 5px;
+    padding: 15px 30px;
+    border: none;
+    font-weight: 700;
+    height: 64px;
+    font-size: 20px;
+
+}
+.con{
+    display: flex;
+    background-color: #fd6e0a;
+    border-radius: 5px;
+    color:white;
+    border-radius: 5px;
+    padding: 15px 30px;
+    border: none;
+    font-weight: 700;
+    height: 64px;
+    font-size: 20px;
+
+}
