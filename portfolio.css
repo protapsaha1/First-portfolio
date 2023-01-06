@@ -96,7 +96,7 @@ nav ul{
     color:#757575;
     font-size: 18px;
     margin-bottom: 30px;
-    /* margin-left: 50px; */
+    
 }
 
 /* main part */
@@ -105,7 +105,7 @@ nav ul{
       max-width: 1140px;
       background-color:  #FFF8F3;
       margin: 0 auto;
-      /* padding: 100px 300px; */
+      
 }  
 .about{
     text-align: center;
@@ -114,16 +114,35 @@ nav ul{
     padding: 130px 150px;
 }
 .section-about{
-    text-align: center;
-    /* font-size: 40px;
-    /* font-weight: 700; */
-   margin-bottom:30px ;
+    margin-bottom:30px ;
+    font-size: 35px;
+    font-weight: 800;
 }
 .section-text{
-    text-align: center;
     font-size: 18px;
     margin-bottom: 30px;
     color: #757575;
 
 }
 
+.info-box{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+
+ .about-info .info-name{ 
+    font-size: 20px;
+    color: #757575;
+    
+}
+
+ .info-describe{
+
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+
+} 
