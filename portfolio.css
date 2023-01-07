@@ -110,11 +110,11 @@ nav ul{
 .about{
     text-align: center;
     margin-top: 130px;
-    border-radius: 10px;
-    padding: 130px 150px;
+    border-radius: 20px;
+    padding: 130px 150px 100px;
 }
 .section-about{
-    margin-bottom:30px ;
+    margin-bottom:50px ;
     font-size: 35px;
     font-weight: 800;
 }
@@ -128,6 +128,7 @@ nav ul{
 .info-box{
     display: flex;
     justify-content: space-around;
+    margin-top: 300px;
     
 
 }
@@ -146,3 +147,158 @@ nav ul{
     color: #474747;
 
 } 
+
+/* what i do */
+/* .lass{ 
+    background-color: #FFFFFF;
+} */
+
+.what-i{
+    text-align: center;
+    margin-top: 300px; 
+    background-color: #FFFFFF;
+}
+.what-do{
+     margin-top: 300px;
+     font-size: 35px;
+     font-weight: 1000;
+}
+
+.what-describe{
+    margin-bottom: 200px;
+}
+
+.skills-container{
+    display: flex;
+    /* margin-top: 200px;  */
+}
+
+.skill{
+    background-color:#FFFFFF;
+    box-shadow: 0 6px 50px rgba(0,0,0,0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.skill-describe{
+    color: #757575;
+   
+}
+
+/* resume style */
+.my-exprience{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 150px;
+}
+.resume{
+    background-color: #FFFFFF;
+}
+
+.resume-con{
+    display: flex;
+    gap: 24px;
+    
+
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-title{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.resume .title{
+     font-weight: 700;
+     font-size: 25px;
+     color: #474747;
+
+
+}
+
+.resume .s-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+   
+
+
+}
+
+.resume .des--{
+    color: #757575;
+    margin-top: 20px;
+
+
+}
+
+/* resume button */ 
+
+.resume-dwn{
+    background-position: bottom;
+    text-align: center;
+    margin-top: 50px;
+}
+/* contect side */
+
+.ct--{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3 ;
+    padding: 130px 200px;
+}
+    
+.ct-- .cont--{
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 100px;
+
+}
+
+
+.ct-- .para{
+    margin-bottom: 20px;
+}
+
+
+.ct-- .cont{
+    text-align: right;
+    margin-top: 100px;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+/* form style */
+.ct-- input,textarea{
+    margin-bottom: 25px;
+    border-radius: 5px;text-decoration: none;
+    box-shadow: 0 6px 50px rgba(0,0,0,0.06);
+}
+#my--{
+    padding: 20px 200px 20px 20px;
+    
+}
+#biger{
+    padding: 20px 150px 40px 20px;
+}
+
+
+
+
+
+
